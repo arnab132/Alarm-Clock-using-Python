@@ -47,7 +47,7 @@ If loop suggests that if the user input time set_alarm_timer matches with the wh
 
 winsound.SND_ASYNC plays the system generated sound as soon the condition satisfies, acting as a reminder for the alarm clock.
 
-To Initialize tkinter, we pass a command under the name clock as Tk().
+To Initialize tkinter, We pass a command under the name clock as Tk().
 
 The dialog box has the title as The Alarm Clock with a geometry of (400*200). We pass on the heading to mention the time format for 24 hours using time_format.
 
