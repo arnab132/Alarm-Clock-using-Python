@@ -1,6 +1,6 @@
 # Alarm-Clock-Implementation-using-Python
 
-It is no doubt that an alarm clock is always handy to alert us whenever we sleep, take a short nap, or to remind us about the work, we always get oblivious about.
+It is no doubt that an alarm clock is always handy to alert us whenever we Sleep, take a short nap, or to remind us about the work, we always get oblivious about.
 
 Our ancestors have been using an alarm clock, going back to its 2,000 years long history but over time, the new advancements in technologies allow us to keep an alarm clock without it containing a dial, gear trains, etc. How? Let’s find out further.
 
